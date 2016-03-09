@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Tuesday]]></title>
         <description><![CDATA[Tuesday]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tuesday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 17:27:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 17:32:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tuesday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Brillouin zones of a square crystal lattice in two dimensions, which underlie the analysis of waves propagating through the crystal. Image: R R Hogan, University of Cambridge]]></title>
+            <description><![CDATA[<article><h1>The Brillouin zones of a square crystal lattice in two dimensions, which underlie the analysis of waves propagating through the crystal. Image: R R Hogan, University of Cambridge</h1><p>The Brillouin zones of a square crystal lattice in two dimensions, which underlie the analysis of waves propagating through the crystal. Image: R R Hogan, Unive</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06d2a00d-4039-40ff-80ee-c20f4a035dfe.png"></article>]]></description>
+            <link>https://thegrid.ai/tuesday/the-brillouin-zones-of-a-square-crystal-lattice-in-two-dimen/index.html</link>
+            <guid isPermaLink="false">2459f6ad-f4e4-495d-ba02-1cdf97fea3ad</guid>
+            <pubDate>Wed, 09 Mar 2016 17:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maths Podcasts!]]></title>
-            <description><![CDATA[<article><h1>Maths Podcasts!</h1><p>Stories from the Mathematical Domain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Maths Podcasts!</h1><p>Stories from the Mathematical Domain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
             <link>http://relprime.com/</link>
             <guid isPermaLink="false">b6fafef4-2844-4ac6-b50e-e43a5cae5f2d</guid>
             <pubDate>Wed, 09 Mar 2016 17:27:36 GMT</pubDate>
