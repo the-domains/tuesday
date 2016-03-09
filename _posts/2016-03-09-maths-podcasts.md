@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://relprime.com'
-  name: Relatively Prime
-  favicon: null
-  domain: relprime.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://relprime.com/'
+inLanguage: en
+starred: false
 keywords:
   - diegetic
   - episode
@@ -17,18 +16,21 @@ keywords:
   - subscribe
   - chapter
   - plots
-description: Stories from the Mathematical Domain
-inLanguage: en
+description: 'Stories from the Mathematical Domain. This series of podcasts follows intriguing topics to do with mathematics - following a tremendously successful ad campaign. Get yourself a cup of coffee, sit down, and take a chill listen! '
+datePublished: '2016-03-09T18:58:07.162Z'
+dateModified: '2016-03-09T18:58:06.656Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://relprime.com/'
 title: 'Maths Podcasts!'
-datePublished: '2016-03-09T17:27:36.497Z'
-dateModified: '2016-03-09T17:23:38.126Z'
 sourcePath: _posts/2016-03-09-maths-podcasts.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Relatively Prime
+  domain: relprime.com
+  url: 'http://relprime.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
