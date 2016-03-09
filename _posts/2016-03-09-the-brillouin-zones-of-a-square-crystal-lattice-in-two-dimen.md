@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Brillouin zones of a square crystal lattice in two dimensions, which underlie the analysis of waves propagating through the crystal. Image: R R Hogan, Unive'
-datePublished: '2016-03-09T18:50:09.404Z'
-dateModified: '2016-03-09T18:44:52.157Z'
+datePublished: '2016-03-09T18:57:51.372Z'
+dateModified: '2016-03-09T18:50:19.143Z'
 author: []
 title: 'The Brillouin zones of a square crystal lattice in two dimensions, which underlie the analysis of waves propagating through the crystal. Image: R R Hogan, University of Cambridge'
 sourcePath: _posts/2016-03-09-the-brillouin-zones-of-a-square-crystal-lattice-in-two-dimen.md
