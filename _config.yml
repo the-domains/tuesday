@@ -1,3 +1,7 @@
+name: Tuesday
+favicon: null
+layout_spectrum: 0.2969925
+typography_spectrum: 0.5257788
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5257788
+title: Tuesday Club
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3131065
-  brandStrength: 0.7792696
-  rhythmicContrast: 0.9194119
   brandColors:
     - '#030D17'
     - '#6E5D65'
     - '#FBBFB2'
     - '#F29188'
     - '#BB9AA2'
+  brandStrength: 0.7792696
   lightness: 0.1091598
-layout_spectrum: 0.2969925
-name: Tuesday
+  saturation: 0.3131065
+  rhythmicContrast: 0.9194119
+purpose: []
