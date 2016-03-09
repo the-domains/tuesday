@@ -1,0 +1,14 @@
+layout_spectrum: 0.292696
+typography_spectrum: 0.5257788
+color:
+  saturation: 0.3131065
+  lightness: 0.1091598
+  brandStrength: 0.7792696
+  brandColors:
+    - '#030D17'
+    - '#6E5D65'
+    - '#FBBFB2'
+    - '#F29188'
+    - '#BB9AA2'
+  rhythmicContrast: 0.9194119
+name: Tuesday
