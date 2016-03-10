@@ -1,4 +1,7 @@
-name: Tuesday Club
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,12 +12,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 layout_spectrum: 0.2969925
 title: Tuesday Club
 cta:
@@ -34,8 +37,5 @@ color:
   lightness: 0.1091598
 purpose: []
 favicon: null
+name: Tuesday Club
 typography_spectrum: 0.5257788
-analytics:
-  twitter: null
-  google: null
-  facebook: null
