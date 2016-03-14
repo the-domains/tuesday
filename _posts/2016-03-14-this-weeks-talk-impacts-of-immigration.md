@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This Week's Talk - Impacts of Immigration"
-datePublished: '2016-03-14T08:35:40.794Z'
-dateModified: '2016-03-14T08:35:04.538Z'
+datePublished: '2016-03-14T08:37:17.101Z'
+dateModified: '2016-03-14T08:35:42.914Z'
+title: ''
+author: []
+sourcePath: _posts/2016-03-14-this-weeks-talk-impacts-of-immigration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-sourcePath: _posts/2016-03-14-this-weeks-talk-impacts-of-immigration.md
-published: true
 url: this-weeks-talk-impacts-of-immigration/index.html
 _type: Article
 
