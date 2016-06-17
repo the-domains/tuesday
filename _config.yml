@@ -1,41 +1,41 @@
-name: Tuesday Club
-favicon: null
-layout_spectrum: 0.2969925
-typography_spectrum: 0.5257788
+title: Tuesday Club
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Tuesday Club
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.9887217
+  brandStrength: 0.7792696
+  lightness: 0.7728249
   brandColors:
     - '#030D17'
     - '#6E5D65'
     - '#FBBFB2'
     - '#F29188'
     - '#BB9AA2'
-  brandStrength: 0.7792696
-  lightness: 0.1091598
-  saturation: 0.3131065
   rhythmicContrast: 0.9194119
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Tuesday Club
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5257788
+layout_spectrum: 0.2969925
